@@ -1,0 +1,81 @@
+﻿body 
+{
+    font-family: 'Gill Sans', sans-serif;
+    background-color: Lavender;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+
+h1 
+{
+    color: DodgerBlue;
+    margin-bottom: 10px;
+    background-color: LightSteelBlue;
+    text-align: center;
+}
+
+h2 
+{
+    color: HotPink;
+    font-size: 20px;
+    text-align: center;
+}
+
+p 
+{
+    font-weight: 600;
+    font-family: 'Gill Sans', sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+
+
+form 
+{
+    text-align: left;
+    display: inline-block;
+}
+
+label 
+{
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+
+
+fieldset 
+{
+    text-align: left;
+    border: 2px solid DodgerBlue;
+    border-radius: 10px;
+    padding: 20px;
+    width: 80%;
+
+}
+
+legend 
+{
+    color: DodgerBlue;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+button 
+{
+    background-color: LightSkyBlue;
+    color: white;
+    padding: 10px 15px;
+    font-size: 16px;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+button:hover 
+{
+    background-color: SteelBlue;
+}
+
